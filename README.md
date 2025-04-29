@@ -8,7 +8,7 @@ With over 3 years of experience in the field, I've had the opportunity to work o
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,react, node.js" />
   </a>
 </p>
 
