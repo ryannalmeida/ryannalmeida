@@ -1,7 +1,7 @@
 # 👋 Hi there
 
 I'm Ryann Almeida, a passionate software developer and tech enthusiast. I currently work as a Full Stack Developer. </br>
-With over 3 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
+With over 4 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
 
 
 # 💻 Tech Stack
