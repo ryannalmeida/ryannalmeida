@@ -48,54 +48,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🖥️ MySpot Tools</h3>
-      <p>Desktop app with <b>100% on-device OCR</b> + neural translation (NLLB/ONNX). Offline, no external APIs.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Tauri-FFC131?style=flat&logo=tauri&logoColor=black" />
-        <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💊 PowerDose</h3>
-      <p>Immersive 3D landing page. <b>90+ Lighthouse</b> score with real-time Three.js rendering.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=black" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 Auto Retoucher</h3>
-      <p>AI agent that analyzes portraits and generates <b>structured retouching reports</b> with coordinate detection.</p>
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 Lacrei Saúde — BI</h3>
-      <p>ETL pipeline with Star Schema, LGPD compliance. <b>1.800+ active users/month</b>. PUC Minas partnership.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
